@@ -8,6 +8,8 @@ You can select other options or choose 0 to finish: ![image](https://github.com/
 
 ![image](https://github.com/Jnrosas/ONE-CurrencyConverterChallenge/assets/95659960/a3c09479-8617-45f4-afc0-42aacb12d543)
 
+It also keeps track of your conversions: ![image](https://github.com/Jnrosas/ONE-CurrencyConverterChallenge/assets/95659960/49a853f6-dbd9-45ed-a1b2-23c28a5f2195)
+
 
 
 
