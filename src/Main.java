@@ -120,5 +120,6 @@ public class Main {
          }
       }
       System.out.println("\nThank you, app closed!");
+      scanner.close();
    }
 }
